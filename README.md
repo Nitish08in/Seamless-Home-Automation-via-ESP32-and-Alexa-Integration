@@ -99,13 +99,14 @@ Below are the connections of the ESP32 with the various components used in the p
 
 ## Project Images
 
-1. **Completed Setup**  
+1. **Completed Setup**
+   Project Photos/Image 1.jpeg
    *(Insert a clear image of your fully assembled project here)*
 
-2. **Blynk App Interface**  
+3. **Blynk App Interface**  
    *(Include screenshots of the Blynk app interface showing control buttons and sensor readings)*
 
-3. **OLED Display**  
+4. **OLED Display**  
    *(Show the OLED displaying temperature, humidity, and smoke levels)*
 
 ## Code Explanation
