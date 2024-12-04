@@ -100,7 +100,7 @@ Below are the connections of the ESP32 with the various components used in the p
 ## Project Images
 
 1. **Completed Setup**
-   Project Photos/Image 1.jpeg
+   ![Project Setup](Project Photos/Image 1.jpeg)
    *(Insert a clear image of your fully assembled project here)*
 
 3. **Blynk App Interface**  
