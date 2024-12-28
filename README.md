@@ -100,19 +100,22 @@ Below are the connections of the ESP32 with the various components used in the p
 ## Project Images
 
 1. **Completed Setup**
-   ![Project Setup](Project%20Photos/Image%201.jpeg)
-   *(Project Photo 1)*
+   ![Project Setup](Project%20Photos/Project%20Photo%201.jpeg)
+   
+   **Check the working of the Project Here:-** ![Project Setup](Project%20Videos)
 
-3. **Blynk App Interface**
-   *(Include screenshots of the Blynk app interface showing control buttons and sensor readings)*
-
-4. **Synric Pro Interface**
-
-5. **OLED Display**
+2. **Blynk App Interface**
+   ![Project Setup](Project%20Photos/Blynk%20App%20Interface.png)
+   
+3. **Synric Pro Interface**
+    ![Project Setup](Project%20Photos/Sinric%20Pro%20Interface.png)
+   
+4. **OLED Display**
    ![](Project%20Photos/OLED%20Display.jpeg)   
    *(Show the OLED displaying temperature, humidity, and smoke levels)*
 
 ## Code Explanation
+**Here is the Code File that we Used in this Project:-** ![Project Setup](Code%20File/Final_Code.ino)
 
 ### Main Components
 
@@ -139,6 +142,9 @@ Before running the project, ensure you have installed the following libraries in
 3. **Adafruit GFX**: For OLED display graphics.
 4. **Adafruit SSD1306**: To control the OLED display.
 5. **SinricPro**: For Alexa integration via SinricPro.
+
+## Project Report
+- Here is the Project Report of this Project:- ![Project Setup](Project%20Report/PROJECT%20REPORT_FINAL.pdf)
 
 ## Future Improvements
 
