@@ -24,8 +24,7 @@ This project demonstrates a smart home automation system using the ESP32 microco
 - **Blynk IoT app** for mobile control and monitoring
 
 ## Circuit Diagram
-![Project Setup](Circuit%20Diagram/Circuit%20Diagram.jpg) Circuit%20Diagram/Circuit%20Diagram.jpg
-
+![Project Setup](Circuit%20Diagram/Circuit%20Diagram.jpg) 
 **(Note :- This is just the overview of the project not the actual circuit diagram, because I made this project by self and little bit inspiration from Youtube)**
 
 ## Connections
@@ -103,7 +102,7 @@ Below are the connections of the ESP32 with the various components used in the p
 1. **Completed Setup**
    ![Project Setup](Project%20Photos/Project%20Photo%201.jpeg)
    
-   **Check the working of the Project Here:-** ![Project Setup](Project%20Videos)
+   **Check the working of the Project Here:-** ![Project Videos](Project%20Videos)
 
 2. **Blynk App Interface**
    ![Project Setup](Project%20Photos/Blynk%20App%20Interface.png)
@@ -113,10 +112,10 @@ Below are the connections of the ESP32 with the various components used in the p
    
 4. **OLED Display**
    ![](Project%20Photos/OLED%20Display.jpeg)   
-   *(Show the OLED displaying temperature, humidity, and smoke levels)*
+   
 
 ## Code Explanation
-**Here is the Code File that we Used in this Project:-** ![Project Setup](Code%20File/Final_Code.ino)
+**Here is the Code File that we Used in this Project:-** ![Project Code](Code%20File/Final_Code.ino)
 
 ### Main Components
 
@@ -145,7 +144,7 @@ Before running the project, ensure you have installed the following libraries in
 5. **SinricPro**: For Alexa integration via SinricPro.
 
 ## Project Report
-- Here is the Project Report of this Project:- ![Project Setup](Project%20Report/PROJECT%20REPORT_FINAL.pdf)
+- Here is the Project Report of this Project:- ![Project Report](Project%20Report/PROJECT%20REPORT_FINAL.pdf)
 
 ## Future Improvements
 
