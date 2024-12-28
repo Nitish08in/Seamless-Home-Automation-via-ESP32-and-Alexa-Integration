@@ -24,8 +24,9 @@ This project demonstrates a smart home automation system using the ESP32 microco
 - **Blynk IoT app** for mobile control and monitoring
 
 ## Circuit Diagram
+![Project Setup](Circuit%20Diagram/Circuit%20Diagram.jpg) Circuit%20Diagram/Circuit%20Diagram.jpg
 
-*(Add a diagram of your circuit here)*
+**(Note :- This is just the overview of the project not the actual circuit diagram, because I made this project by self and little bit inspiration from Youtube)**
 
 ## Connections
 
