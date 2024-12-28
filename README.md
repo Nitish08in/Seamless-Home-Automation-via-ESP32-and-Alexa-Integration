@@ -109,7 +109,7 @@ Below are the connections of the ESP32 with the various components used in the p
 4. **Synric Pro Interface**
 
 5. **OLED Display**
-   ![](Project%Photos/OLED%Display.jpeg)   
+   ![](Project%20Photos/OLED%20Display.jpeg)   
    *(Show the OLED displaying temperature, humidity, and smoke levels)*
 
 ## Code Explanation
