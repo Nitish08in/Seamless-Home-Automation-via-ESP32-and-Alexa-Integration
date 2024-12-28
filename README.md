@@ -25,7 +25,7 @@ This project demonstrates a smart home automation system using the ESP32 microco
 
 ## Circuit Diagram
 ![Project Setup](Circuit%20Diagram/Circuit%20Diagram.jpg) 
-**(Note :- This is just the overview of the project not the actual circuit diagram, because I made this project by self and little bit inspiration from Youtube)**
+**(Note :- This is just an overview of the project, not the actual circuit diagram, as I made this project myself with a little inspiration from YouTube.)**
 
 ## Connections
 
