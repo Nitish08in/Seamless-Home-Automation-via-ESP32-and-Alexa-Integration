@@ -102,7 +102,7 @@ Below are the connections of the ESP32 with the various components used in the p
 1. **Completed Setup**
    ![Project Setup](Project%20Photos/Project%20Photo%201.jpeg)
    
-   **Check the working of the Project Here:-** ![Project Videos](Project%20Videos)
+   **Check the working of the Project Here:-** ![Project Videos](https://github.com/Nitish08in/Seamless-Home-Automation-via-ESP32-and-Alexa-Integration/tree/main/Project%20Videos)
 
 2. **Blynk App Interface**
    ![Project Setup](Project%20Photos/Blynk%20App%20Interface.png)
